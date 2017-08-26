@@ -30,8 +30,8 @@
     <ClCompile Include="main.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="..\..\TrueNginetemp\TrueEngine\simple_color_shader.frag" />
-    <None Include="..\..\TrueNginetemp\TrueEngine\simple_color_shader.vs" />
+    <None Include="simple_color_shader.frag" />
+    <None Include="simple_color_shader.vs" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>
