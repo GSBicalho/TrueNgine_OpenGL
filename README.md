@@ -1,7 +1,7 @@
 # TrueNgine
 ## A N-Dimensional Renderer
 
-This is an attempt to implement an N-Dimensional Renderer, to allow the visualization of N-Dimensonal shapes.
+This is an attempt to implement an N-Dimensional Renderer, to allow the visualization of N-Dimensonal shapes. This version is discontinued, and the project has since moved on to using Qt to manage the windows. The new project can be found [here](https://github.com/GSBicalho/TrueNgine).
 
 The rendering is divided in two parts: the cut of the space and the perspective rendering.
 
